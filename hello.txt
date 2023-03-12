@@ -1,7 +1,0 @@
-Hello,
-this is the message from repo owner.
-
-
-How are you doing.
-
-Add a new line.
