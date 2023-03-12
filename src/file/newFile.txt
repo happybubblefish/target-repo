@@ -1,1 +1,2 @@
 Add a new file ha.
+Append new content.
